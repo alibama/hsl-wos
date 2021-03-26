@@ -1,0 +1,4 @@
+pydeck
+pandas
+streamlit
+woslite_py_client
